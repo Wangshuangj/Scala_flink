@@ -34,4 +34,7 @@ object Loop extends App {
   var m = loop.gcdLoop(10,5)
   println(m)
 
+  //var array = new Array[Int](10);
+  // array1 = Array(1,3,4,5,6);
+
 }
